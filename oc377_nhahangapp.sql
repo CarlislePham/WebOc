@@ -219,7 +219,6 @@ INSERT INTO `categories` (`id`, `name`, `created_at`, `updated_at`) VALUES
 (6, 'Lẩu', NULL, NULL),
 (7, 'Special', NULL, '2021-12-31 11:31:56'),
 (8, 'Nước giải khát', NULL, NULL);
-(9, 'Nước có cồn', NULL,NULL);
 
 -- --------------------------------------------------------
 
